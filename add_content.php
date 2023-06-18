@@ -25,7 +25,7 @@
 			<label for="content">Content:</label>
 			<textarea id="content" name="content" required></textarea>
 
-			<input type="Submit" value="Add Content">
+        <input type="submit" name="Submit" value="Submit Marks" class="button">
 		</form>
 	</main>
 

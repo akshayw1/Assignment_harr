@@ -10,6 +10,8 @@ $result = mysqli_query($cser, "INSERT INTO contenttable (title,content) VALUES('
 
 header("location:view_content.php");
 
+// echo "Record inserted successfully";
+
 
 }
 ?>

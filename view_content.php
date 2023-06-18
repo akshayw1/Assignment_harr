@@ -2,7 +2,7 @@
 
 
 include("add_con.php");
-$result = mysqli_query($cser, "SELECT * FROM contenttable ORDER BY fname DESC"); // using mysqli_query instead
+$result = mysqli_query($cser, "SELECT * FROM contenttable ORDER BY title DESC"); // using mysqli_query instead
 ?>
 
 
